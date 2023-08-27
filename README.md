@@ -50,7 +50,8 @@ Dataset source: https://www.tensorflow.org/datasets/catalog/fashion_mnist
 ![](https://github.com/joshir199/Image-generation-using-DCGAN/blob/main/model/model%20summary/GAN_model_summary.png)
 ***********************
 
-# Training Loss graph:
+# Training Loss per epoch graph:
 
 ![](https://github.com/joshir199/Image-generation-using-DCGAN/blob/main/DC-GAN_training_loss_graph.png)
+
 
